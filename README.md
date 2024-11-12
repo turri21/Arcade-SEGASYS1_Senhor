@@ -1,3 +1,8 @@
+-=(SEGASYS1_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound
+
+___
 # [Arcade: SEGA System 1](https://www.system16.com/hardware.php?id=693) for [MiSTer](https://github.com/MiSTer-devel/Main_MiSTer/wiki) 
 
 by [MiSTer-X](https://twitter.com/mrx_8b)
